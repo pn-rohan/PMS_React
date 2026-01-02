@@ -1,0 +1,74 @@
+{
+  "requests": [
+    {
+      "id": 1,
+      "title": "<ETDG Topic> - Cycle 11 - 2025",
+      "status": "Saved",
+      "projects": 2,
+      "totalResources": 5,
+      "date": "Dec 8, 2025",
+      "requester": "John Doe",
+      "projectTeam": "2026 RTRA",
+      "topics": ["RTRA Build", "RTRA Run"],
+      "fte": 5,
+      "ew": 7
+    },
+    {
+      "id": 2,
+      "title": "<ETDG Topic> - Cycle 11 - 2025",
+      "status": "Pending",
+      "projects": 2,
+      "totalResources": 5,
+      "date": "Dec 8, 2025",
+      "requester": "John Doe",
+      "projectTeam": "2025 Digital Transformation",
+      "topics": ["Cloud Migration"],
+      "fte": 3,
+      "ew": 4
+    },
+    {
+      "id": 3,
+      "title": "<ETDG Topic> - Cycle 11 - 2025",
+      "status": "Approved",
+      "projects": 2,
+      "totalResources": 5,
+      "date": "Dec 8, 2025",
+      "requester": "John Doe",
+      "projectTeam": "2026 RTRA",
+      "topics": ["Infrastructure Setup"],
+      "fte": 4,
+      "ew": 6
+    },
+    {
+      "id": 4,
+      "title": "<ETDG Topic> - Cycle 11 - 2025",
+      "status": "Rejected",
+      "projects": 2,
+      "totalResources": 5,
+      "date": "Dec 8, 2025",
+      "requester": "John Doe",
+      "projectTeam": "2024 Legacy Systems",
+      "topics": ["Maintenance"],
+      "fte": 2,
+      "ew": 3
+    }
+  ],
+  "projectTeams": [
+    "2026 RTRA",
+    "2025 Digital Transformation",
+    "2024 Legacy Systems",
+    "2026 Innovation Hub",
+    "Enterprise Solutions"
+  ],
+  "etdgTopics": [
+    "RTRA Build",
+    "RTRA Run",
+    "Cloud Migration",
+    "Infrastructure Setup",
+    "Maintenance",
+    "Security Enhancement",
+    "Data Analytics",
+    "API Development"
+  ]
+}
+
